@@ -42,7 +42,7 @@ v2.0.7 notes
 ## 🌍 - About Nebula-X 
 
 </p>
-credit to my mans abovescore for the backend. Wouldn't be here without u, man :3 [Nebula X on GitHub](https://github.com/Nebula-X-Development)
+Credit to my friends at school for finding out the Rigtools exploit,that convinced me to make a github account and start coding.Also,thanks to [Nebula X on GitHub](https://github.com/Nebula-X-Development)   Also great thanks to {Blobby Boi} (https://github.com/Blobby-Boi) for inspiration,and (https://github.com/dinguschan-owo) {Dinguschan-OWO}
 
 Nebula X is a modern, user-focused proxy solution designed to enhance browsing privacy and flexibility. It integrates the Ultraviolet Proxy, which allows users to securely route web traffic, ensuring anonymity while browsing. Nebula X features a customizable user interface with a sleek, space-inspired design and tools like a JavaScript Injector and Encoder/Decoder. The platform also includes a Panic Key for quick redirection to a set URL, offering users a discreet escape when needed. The recently added Ultraviolet Proxy integration ensures smooth, secure web browsing, and new tab cloaking options give users full control over tab titles and favicons. Nebula X offers a range of features designed to optimize both security and user experience, making it a powerful tool for anyone who values privacy online.
 

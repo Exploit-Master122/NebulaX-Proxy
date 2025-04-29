@@ -30,15 +30,19 @@ Github found out that I was under 12 and banned my account until I turned 13.So,
 -   Nebula-x Light (BETA)
 -   Unblocked Ai chatbot (NEW)
 -   working search tool (WORKING)
+-   ***DATA URL NEBULA-X LAUNCHER*** (SUPER NEW)
+-   ***GOOGLE BLOB LAUNCHER***
+-   ***IFR@M3D SPAC3 UNBL0CK3R***
 
 ***COMING SOON!!!***
 v2.0.7 notes
-- added data:url launcher
-- updated settings. (about blank fix coming soon)
-- added more games from requests.
-- upgrading the proxy for smoother interaction
-- added tab cloak to embed html
--  ***STAY TUNED FOR BLOB LAUNCHER!!!***
+- Better launcher
+- About:blank fix
+- More games ***IN BROWSER!!***
+- Upgrading proxy and look
+- Better tab cloak
+- 
+-  *************STAY TUNED FOR FULLY WORKING BLOB LAUNCHER!!!*********
 ## 🌍 - About Nebula-X 
 
 </p>

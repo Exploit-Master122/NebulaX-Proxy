@@ -74,7 +74,10 @@ You can also deploy it on your own! using any static hosters (except for github 
 
 <p> If, while using Nebula-X, you experience any issues, please report it  in the Issues Tab https://github.com/Nebula-X-Development/Nebula-X-BETA/issues our  team will do our best to help fix the issue. We hope to be bug-free and make your experience as smooth as possible. 🚀
 
-
+***THIS IS A BETTER LAUNCHER!!!***
+```
+data:text/html;charset=utf-8,%3C!DOCTYPE%20html%3E%3Chtml%3E%3Chead%3E%3Ctitle%3EGoogle%20Launcher%3C/title%3E%3Cstyle%3Ebody%7Bbackground:%23121212;color:%23fff;font-family:sans-serif;text-align:center;padding-top:60px;%7Dbutton%7Bbackground:%23b00020;color:%23fff;border:none;padding:15px%2030px;margin:10px;font-size:18px;border-radius:8px;cursor:pointer;transition:0.3s;%7Dbutton:hover%7Bbackground:%23ff1744;%7Dh2%7Bfont-size:2em;margin-bottom:40px;%7D%3C/style%3E%3C/head%3E%3Cbody%3E%3Ch2%3E%F0%9F%9A%80%20Google%20Fullscreen%20Launcher%3C/h2%3E%3Cbutton%20onclick%3D%22launchBlob()%22%3ELaunch%20Google%20in%20Blob%3C/button%3E%3Cbutton%20onclick%3D%22launchBlank()%22%3ELaunch%20Google%20in%20about%3Ablank%3C/button%3E%3Cscript%3Efunction%20getIframeHTML()%7Breturn'%3C!DOCTYPE%20html%3E%3Chtml%3E%3Chead%3E%3Cstyle%3Ebody,html%7Bmargin:0;padding:0;height:100%%3Boverflow:hidden;background:%23000;%7Diframe%7Bborder:none;width:100vw;height:100vh;%7D%3C/style%3E%3C/head%3E%3Cbody%3E%3Ciframe%20src%3D%22https://www.google.com/?safe=active&ssui=on%22%3E%3C/iframe%3E%3C/body%3E%3C/html%3E%27%3B%7Dfunction%20launchBlob()%7Bconst%20html%3DgetIframeHTML()%3Bconst%20blob%3Dnew%20Blob([html]%2C%7Btype:%27text/html%27%7D)%3Bconst%20url%3DURL.createObjectURL(blob)%3Bwindow.open(url)%3B%7Dfunction%20launchBlank()%7Bconst%20html%3DgetIframeHTML()%3Bconst%20win%3Dwindow.open(%27about:blank%27)%3Bwin.document.write(html)%3Bwin.document.close()%3B%7D%3C/script%3E%3C/body%3E%3C/html%3E
+```
 
 ## 🛰️ - Common Issues
 none :) Report any issues you experience in the issues tab, and our team will get right on them.

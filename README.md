@@ -3,7 +3,7 @@ Github found out that I was under 12 and banned my account until I turned 13.So,
 <p> <dev>
 𝑻𝑯𝑬 𝑬𝑿𝑷𝑳𝑶𝑰𝑻:
 > [!WARNING]
-> 🚨 **Production/Development pause**
+> 🚨 **Production/Development pause,because of school end-of year tests for all developers**
 
 
 <p align="center">
@@ -31,18 +31,21 @@ Github found out that I was under 12 and banned my account until I turned 13.So,
 -   Unblocked Ai chatbot (NEW)
 -   working search tool (WORKING)
 -   ***DATA URL NEBULA-X LAUNCHER*** (SUPER NEW)
--   ***GOOGLE BLOB LAUNCHER***
--   ***IFR@M3D SPAC3 UNBL0CK3R***
+-   ***GOOGLE BLOB LAUNCHER***  (SUPER NEW)
+-   ***IFR@M3D SPAC3 UNBL0CK3R***  ***COMING SOON!!!***
 
 ***COMING SOON!!!***
 v2.0.7 notes
-- Better launcher
+- Better launcher 
 - About:blank fix
 - More games ***IN BROWSER!!***
 - Upgrading proxy and look
 - Better tab cloak
-- 
--  *************STAY TUNED FOR FULLY WORKING BLOB LAUNCHER!!!*********
+- Iframed space unblocker
+-  ********STAY TUNED  FOR FULLY WORKING BLOB LAUNCHER!!!*********
+-  ***SUPERNOVA™ INCOGNITO MODE***
+-   (The ™ is only for show,I did not actually trademark it)
+-   Games through blob
 ## 🌍 - About Nebula-X 
 
 </p>
@@ -67,9 +70,9 @@ Use the nebula-x-site repo to deploy as it has up to date code and is organized.
 - https://nebulaprxy-x.netlify.app/
 - https://nebula-x-development.github.io/Nebula-X-site/index.html
 - https://nx.global.ssl.fastly.net/
-- 
+- ***MORE LINKS COMING SOON***
+  You can also deploy it on your own! using any static hosters (except for github codespaces)
   
-You can also deploy it on your own! using any static hosters (except for github codespaces)
 
 <p>you also may use our new data:URL launcher! just copy this and put it in your URL bar!!🙂
 
@@ -83,11 +86,15 @@ You can also deploy it on your own! using any static hosters (except for github 
 data:text/html;charset=utf-8,%3C!DOCTYPE%20html%3E%3Chtml%3E%3Chead%3E%3Ctitle%3EGoogle%20Launcher%3C/title%3E%3Cstyle%3Ebody%7Bbackground:%23121212;color:%23fff;font-family:sans-serif;text-align:center;padding-top:60px;%7Dbutton%7Bbackground:%23b00020;color:%23fff;border:none;padding:15px%2030px;margin:10px;font-size:18px;border-radius:8px;cursor:pointer;transition:0.3s;%7Dbutton:hover%7Bbackground:%23ff1744;%7Dh2%7Bfont-size:2em;margin-bottom:40px;%7D%3C/style%3E%3C/head%3E%3Cbody%3E%3Ch2%3E%F0%9F%9A%80%20Google%20Fullscreen%20Launcher%3C/h2%3E%3Cbutton%20onclick%3D%22launchBlob()%22%3ELaunch%20Google%20in%20Blob%3C/button%3E%3Cbutton%20onclick%3D%22launchBlank()%22%3ELaunch%20Google%20in%20about%3Ablank%3C/button%3E%3Cscript%3Efunction%20getIframeHTML()%7Breturn'%3C!DOCTYPE%20html%3E%3Chtml%3E%3Chead%3E%3Cstyle%3Ebody,html%7Bmargin:0;padding:0;height:100%%3Boverflow:hidden;background:%23000;%7Diframe%7Bborder:none;width:100vw;height:100vh;%7D%3C/style%3E%3C/head%3E%3Cbody%3E%3Ciframe%20src%3D%22https://www.google.com/?safe=active&ssui=on%22%3E%3C/iframe%3E%3C/body%3E%3C/html%3E%27%3B%7Dfunction%20launchBlob()%7Bconst%20html%3DgetIframeHTML()%3Bconst%20blob%3Dnew%20Blob([html]%2C%7Btype:%27text/html%27%7D)%3Bconst%20url%3DURL.createObjectURL(blob)%3Bwindow.open(url)%3B%7Dfunction%20launchBlank()%7Bconst%20html%3DgetIframeHTML()%3Bconst%20win%3Dwindow.open(%27about:blank%27)%3Bwin.document.write(html)%3Bwin.document.close()%3B%7D%3C/script%3E%3C/body%3E%3C/html%3E
 ```
 ***DOWNLOADABLE VERSION COMING SOON!!!!***
-
+```
+https://github.com/Z-Kit-Team/Z-Kit/blob/main/games.html
+```
+Download it!
 
 ## 🛰️ - Common Issues
-none :) Report any issues you experience in the issues tab, and our team will get right on them.
-
+-The about:blank launcher in not working **WE KNOW!!! >=-(**
+-The proxy works,but is kind of laggy.
+-The proxy in the tools settings works with iframes,not real proxy servers,so the proxy will only work for sites that do not block iframe connections.Try florr.io.It's a good game,trust.
 ## ☄️ - Other unbl0ked links / sites.
 Here at Nebula, our main goal is to provide unblocked fun. We understand that our site will have some issues, but there are better sites out there. so we decided instead of trying to hide that we decided to embrace it. This is a list of working unbl0ked links for games, pr0xies, ai, and more. we don't claim any of these sites as ours because they aren't. We hope you enjoy these if our service doesn't live up to what it should. Thank you for using Nebula! go here for the links --->  https://github.com/Nebula-X-Development/Nebula-X-BETA/blob/main/links%20(not%20Nebula).md
 thanks for reading all this :D.

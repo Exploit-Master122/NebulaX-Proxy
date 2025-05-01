@@ -71,6 +71,34 @@ Use the nebula-x-site repo to deploy as it has up to date code and is organized.
 - https://nebula-x-development.github.io/Nebula-X-site/index.html
 - https://nx.global.ssl.fastly.net/
 - ***MORE LINKS COMING SOON***
+- LINKS OF DIFFERENT ASTRONOMY-THEMED PROXIES:
+- https://you-can-put-anything-right-here.securly.mom (New!)
+
+https://ogiqbptdki.joemullins.info/ (New!)
+
+https://ogecwlqhyp.tzhang.net/ (New!)
+
+https://pcbtnghvzx.elliott.ca/ (New!)
+
+http://pqiuyowrdz.apocalypto.org.uk/ (New!)
+
+https://uniub.goguardian.mom (New!)
+
+http://quietschizophrenia.120v.ac/ (New!)
+
+http://qinahbgphq.vacantcranium.net/ (New!)
+
+http://saoishine.panel-laboralcj.gob.mx/ (New!)
+
+http://securlyforschools.ignorelist.com/ (New!)
+
+http://gointospace.app (DIFFERENT VERSION)
+
+https://procedures.clientview.com/ (UPDATED)
+
+
+
+
   You can also deploy it on your own! using any static hosters (except for github codespaces)
   
 

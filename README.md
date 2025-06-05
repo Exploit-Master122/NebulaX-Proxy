@@ -137,5 +137,10 @@ THERE IS MUCH MORE COMING SOON,DON"T LOSE HOPE
 
 -For more proxies,follow us all,  - Exploit-Master122
 
+# Download Nebula-X Browser:
+- [For Windows Download file](https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/PLAYCODE-Setup-2022.12.27.exe)
+- [For MacOS installer](https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/PLAYCODE-2022.12.27-universal.dmg)
+- [Linux app install](https://github.com/playcode/playcode-desktop/releases/download/v2022.12.27/PLAYCODE-2022.12.27.AppImage)
+
 
 
